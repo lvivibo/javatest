@@ -1,0 +1,5 @@
+1 main method in PublishController.java
+2 javatest-0.0.1-SNAPSHOT-jar-with-dependencies.jar in  target folder
+3 java -jar javatest-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+4Please enter operation(story1;story2;end;) then keyboard entry:
+story1
